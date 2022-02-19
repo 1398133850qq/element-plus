@@ -56,6 +56,7 @@ const beforeAvatarUpload = (file: ElFile) => {
   width: 178px;
   height: 178px;
   text-align: center;
+  line-height:178px;
 }
 .avatar {
   width: 178px;
